@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "weather-app-angular16": {
+      "hosting": {
+        "weather-app": [
+          "weather-app-angular16"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "weather-app-angular16"
+  }
+}
